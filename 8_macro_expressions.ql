@@ -1,5 +1,3 @@
-
-
 import cpp
 
 from MacroInvocation mi
